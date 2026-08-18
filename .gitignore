@@ -1,0 +1,18 @@
+# Python / virtual environment
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Environment variables / Secrets
+.env
+
+# Local Vector DB & Temp Data
+Chroma/
+.chromadb/
+data/
+*.pdf
+
+# IDE / OS
+.DS_Store
+.vscode/

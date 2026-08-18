@@ -6,6 +6,7 @@ env/
 
 # Environment variables / Secrets
 .env
+.streamlit/
 
 # Local Vector DB & Temp Data
 Chroma/
